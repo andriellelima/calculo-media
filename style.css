@@ -1,0 +1,52 @@
+body{ 
+    background-image: url(img/fundo.jpg);
+    background-size: 500px;
+}
+section{
+    background-color: rgb(209, 198, 178);
+    width: 550px;
+    height: 650px;
+    margin: 150px auto;
+    border-radius: 8px;
+    font-weight: 200;
+}
+
+#card {
+    text-align: center;
+}
+
+img{
+    margin: 25px 150px;
+    width: 200px;
+    height: 200px;
+}
+
+input{
+    width: 77px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #6FCF97;
+    border-radius: 10px;
+    width: 123px;
+    height: 33px;
+    border: none;
+}
+#voltar{
+    background-color: #EB5757;
+    width: 118px;
+    height: 28px;
+}
+
+p{
+    font-size: x-large;
+}
+
+#media{
+    font-weight: bold;
+}
