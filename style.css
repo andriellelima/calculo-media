@@ -3,8 +3,8 @@ body{
     background-size: 500px;
 }
 section{
-    background-color: rgb(209, 198, 178);
-    width: 550px;
+    background-color: rgb(155, 212, 233);
+    width: 950px;
     height: 650px;
     margin: 150px auto;
     border-radius: 8px;
@@ -15,7 +15,7 @@ section{
     text-align: center;
 }
 
-img{
+#robo{
     margin: 25px 150px;
     width: 200px;
     height: 200px;
@@ -27,16 +27,17 @@ input{
     border-radius: 5px;
     border: none;
     text-align: center;
+    background-color: white;
 }
 
-button {
+/* button {
     margin-top: 10px;
     background-color: #6FCF97;
     border-radius: 10px;
     width: 123px;
     height: 33px;
     border: none;
-}
+} */
 #voltar{
     background-color: #EB5757;
     width: 118px;
@@ -50,3 +51,4 @@ p{
 #media{
     font-weight: bold;
 }
+
