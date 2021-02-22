@@ -119,7 +119,7 @@ function mediaEnem() {
   if (camposPreenchidos == 5) {
     resultado.innerHTML = `<img id="robo" src="img/chatbot.svg">`
     resultado.innerHTML += `<h3> Pelos meus cálculos sua média do ENEM é <strong class="text-primary"> ${media} </strong> </h3>`
-    resultado.innerHTML += `<a href="media-pesos.html" type="button" class="btn btn-secondary ">Retornar</a>`
+    resultado.innerHTML += `<a href="media-enem.html" type="button" class="btn btn-secondary ">Retornar</a>`
   }
 
 
