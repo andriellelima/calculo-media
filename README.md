@@ -12,4 +12,4 @@ Um simples projeto para estudo, possui 3 opções de cálculo:
 * Css
 * Javascript
 
-![](/readme/img/page-home.png)
+![](/img/page-home.png)
