@@ -11,3 +11,5 @@ Um simples projeto para estudo, possui 3 opções de cálculo:
 * Html
 * Css
 * Javascript
+
+![](/img/page-home.png)
