@@ -10,6 +10,7 @@ Um simples projeto para estudo, possui 3 opções de cálculo:
 ### Tecnologias :computer:
 * Html
 * Css
+* Bootstrap
 * Javascript
 
 ![](/img/page-home.png)
